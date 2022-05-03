@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paul90317
 - 👀 I’m interested in minecraft
-- 🌱 I’m currently learning java, C#.
+- 🌱 I’m currently learning OpenGL, java.
 - 💞️ I’m looking to collaborate on forge mods development team
 - 📫 How to reach me => paul2309825@gmail.com
 
