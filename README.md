@@ -4,7 +4,7 @@
 **and I develop many minecraft datapack and mods, following is my work**
 
 [Datapacks on Minecraft Planet](https://www.planetminecraft.com/member/paul90317/)  
-* **Best Datapack** [Special Mobs](https://www.planetminecraft.com/data-packs/)  
+* **Best Datapack** [Special Mobs](https://www.planetminecraft.com/data-pack/minecraft-but-there-are-some-crazy-mobs/)  
 
 [Mods on CurseForge](https://www.curseforge.com/minecraft/mc-mods)  
 
