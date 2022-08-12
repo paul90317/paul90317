@@ -4,8 +4,8 @@ Hi, I'm @paul90317
 [Semi Global Sequence Alignment with CUDA](https://github.com/paul90317/Semi-Global-Sequence-Alignment-with-Cuda)  
 [Parallel Programming Homeworks](https://github.com/paul90317/Parallel-Programming)  
 * I'm a Minecraft data pack and forge mods maker.  
-[my page](https://www.planetminecraft.com/member/paul90317/)  
-[my page](https://www.curseforge.com/members/paul90317/projects)  
+[My PMC Page](https://www.planetminecraft.com/member/paul90317/)  
+[My Curge Forge Page](https://www.curseforge.com/members/paul90317/projects)  
 * Information Security.  
 [Secure File Server without Https](https://github.com/paul90317/file_server_2)  
 * My bots  
