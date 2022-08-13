@@ -1,5 +1,5 @@
 # Paul90317
-Hi, I'm @paul90317
+Hi, I'm @paul90317, I'm a student in Taiwan.
 * Multithreading.  
 [Semi Global Sequence Alignment with CUDA](https://github.com/paul90317/Semi-Global-Sequence-Alignment-with-Cuda)  
 [Parallel Programming Homeworks](https://github.com/paul90317/Parallel-Programming)  
