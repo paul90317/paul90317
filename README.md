@@ -1,6 +1,7 @@
 # Paul90317
-Hi, I'm @paul90317, I'm a student in Taiwan.  
-I'm a Minecraft data pack and forge mods maker.  
+Hi, I'm [@paul90317](https://github.com/paul90317)
+I'm a student in Taiwan.  
+I'm a Minecraft datapack and Forge mods maker.  
 ### Pages
 **Planet Minecraft:** [paul90317](https://www.planetminecraft.com/member/paul90317/)  
 **Curse Forge:** [paul90317](https://www.curseforge.com/members/paul90317/projects)  
