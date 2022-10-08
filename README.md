@@ -1,15 +1,15 @@
 # Paul90317
 Hi, I'm @paul90317, I'm a student in Taiwan.  
-### Minecraft
 I'm a Minecraft data pack and forge mods maker.  
-[My PMC Page](https://www.planetminecraft.com/member/paul90317/)  
-[My Curse Forge Page](https://www.curseforge.com/members/paul90317/projects)  
+### Pages
+**Planet Minecraft:** [paul90317](https://www.planetminecraft.com/member/paul90317/)  
+**Curse Forge:** [paul90317](https://www.curseforge.com/members/paul90317/projects)  
+**LeetCode:** [paul2239648](https://leetcode.com/paul2239648/)  
+**HackMD:** [paul90317](https://hackmd.io/@paul90317)  
+### Contact me
+**Gmail:** [paul2309825@gmail.com](paul2309825@gmail.com)  
+**Discord:** pau1234#1643
 
-### LeetCode  
-[my leetcode](https://leetcode.com/paul2239648/)  
-[note](https://hackmd.io/?nav=overview&tags=%5B%22leetcode%22%5D)  
 
-
-  
 [Who am I?](https://paul90317.github.io/verify)
 
