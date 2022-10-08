@@ -7,7 +7,7 @@ I'm a Minecraft data pack and forge mods maker.
 **LeetCode:** [paul2239648](https://leetcode.com/paul2239648/)  
 **HackMD:** [paul90317](https://hackmd.io/@paul90317)  
 ### Contact me
-**Gmail:** [paul2309825@gmail.com](paul2309825@gmail.com)  
+**Gmail:** paul2309825@gmail.com  
 **Discord:** pau1234#1643
 
 
