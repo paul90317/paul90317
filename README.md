@@ -9,8 +9,3 @@ I'm a Minecraft datapack and Forge mods maker.
 **HackMD:** [paul90317](https://hackmd.io/@paul90317)  
 ### Contact me
 **Gmail:** paul2309825@gmail.com  
-**Discord:** pau1234#1643
-
-
-[Who am I?](https://paul90317.github.io/verify)
-
