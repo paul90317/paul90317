@@ -6,8 +6,10 @@ I'm a student in Taiwan.
 * [leetcode](https://leetcode.com/paul2239648/)
 
 ## Education
-* [NYCU](https://github.com/paul90317-NYCU)
-* [NCUK](https://github.com/paul90317-NCKU)
+* [National Yang Ming Chiao Tung University](https://github.com/paul90317-NYCU)  
+Master of Science in Computer Science and Engineering
+* [National Cheng Kung University](https://github.com/paul90317-NCKU)  
+Bachelor in Computer Science and Information Engineering
 
 ## Experience
 * [Minecraft mods maker](paul90317-minecraft)
