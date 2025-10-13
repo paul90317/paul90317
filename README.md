@@ -4,8 +4,6 @@
 
 I'm trying to contribute to **open-source C/C++ projects**.  
 
----
-
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul90317&layout=compact&theme=tokyonight)
